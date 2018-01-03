@@ -1,0 +1,17 @@
+for enter.php
+
+ITEM code
+item name
+quantity in stock
+purchase price
+selling price
+profit
+
+for bill.php
+item code
+item name
+quantity
+rate
+amount
+gst in percentage
+total=gst+amount
